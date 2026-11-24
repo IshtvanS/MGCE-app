@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, useRef } from 'react';
+import { useState, useEffect, useMemo, useRef } from 'react';
 import {
   Newspaper,
   BookOpen,
@@ -6,7 +6,6 @@ import {
   Landmark,
   Search,
   Share2,
-  ChevronLeft,
   ChevronRight,
   ChevronDown,
   MapPin,
@@ -23,10 +22,10 @@ import {
   Check,
   Sun,
   Moon,
-  Bookmark,
+  
   Download,
   ArrowLeft,
-  SlidersHorizontal,
+  
   Menu,
   Radio,
   Play,
