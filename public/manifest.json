@@ -1,0 +1,20 @@
+{
+  "name": "МГКЄ",
+  "short_name": "МГКЄ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#3E5641",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ВАША_НАЗВА_ФАЙЛУ.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
